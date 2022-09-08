@@ -3,7 +3,7 @@ This repository contains the source code of covid-19 updater bot implemented in 
 
 
 Packages that is needed:
-pip install requests
+pip install requests<br>
 pip install win10toast
 
 
